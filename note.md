@@ -4,3 +4,5 @@ https://github.com/gregorycrane/philoalex/blob/e1741c231a3e983a17241e2dfa2f2a9ef
 https://raw.githubusercontent.com/gcelano/LemmatizedAncientGreekXML/master/texts/tlg0018.tlg001.opp-grc1.xml
 
 https://github.com/tonyjurg/LemmatizedAncientGreekXML
+
+https://archive.org/details/PhiloSupplement01Genesis/Philo%2001%20Creation%2C%20Allegorical%20Interpretation/

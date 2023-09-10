@@ -4,4 +4,4 @@
 
 This repository will be used for creating a Text-Fabric dataset for Philo's tract De Opifico Mundi.
 
-Source text obtained from https://github.com/pthu/greek_literature
+Source text obtained from multiple sources.

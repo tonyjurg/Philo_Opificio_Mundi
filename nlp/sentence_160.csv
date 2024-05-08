@@ -1,0 +1,11 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Mood,Number,Person,Tense,VerbForm,Voice,Case,Gender,Degree,Aspect
+ἐπιδείκνυται,ἐπιδείκνυται,ἐπιδείκνυται,ἐπιδείκνυται,ται,ε,-20.0,VERB,v3spie---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid,ROOT,0.0,ἐπιδείκνυται,(),False,x̓xxxx́xxxx,False,False,False,False,Ind,Sing,3,Pres,Fin,Mid,,,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,ADV,d--------,,advmod,0.0,ἐπιδείκνυται,(),False,xx̀,False,False,False,False,,,,,,,,,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,ADV,d--------,,advmod,0.0,ἐπιδείκνυται,(),False,xxx̀,False,False,False,False,,,,,,,,,,
+ἕτερον,ἕτερον,ἕτερος,ἕτερον,ρον,ε,-20.0,ADJ,a-s---na-,Case=Acc|Gender=Neut|Number=Sing,nmod,0.0,κάλλος,(),False,x̔́xxxx,False,False,False,False,,Sing,,,,,Acc,Neut,,
+κάλλος,κάλλος,κάλλος,κάλλος,λος,κ,-20.0,NOUN,n-s---nn-,Case=Nom|Gender=Neut|Number=Sing,nsubj,0.0,ἐπιδείκνυται,(),False,xx́xxxx,False,False,False,False,,Sing,,,,,Nom,Neut,,
+αὑτῆς,αὑτῆς,αὑτῆς,αὑτῆς,ῆς,α,-20.0,PRON,p-s---fg-,Case=Gen|Gender=Fem|Number=Sing,nmod,0.0,κάλλος,(),False,xx̔xx͂x,False,False,False,False,,Sing,,,,,Gen,Fem,,
+ἑβδομὰς,ἑβδομὰς,ἑβδομὰς,ἑβδομὰς,ὰς,ε,-20.0,ADJ,n-p---fa-,Case=Acc|Gender=Fem|Number=Plur,obl,0.0,νοηθῆναι,(),False,x̔xxxx̀x,False,False,False,False,,Plur,,,,,Acc,Fem,,
+ἱερώτατον,ἱερώτατον,ἱερώτατον,ἱερώτατον,τον,ι,-20.0,ADJ,a-s---mas,Case=Acc|Degree=Sup|Gender=Masc|Number=Sing,xcomp,0.0,νοηθῆναι,(),False,x̔xxx́xxxx,False,False,False,False,,Sing,,,,,Acc,Masc,Sup,
+νοηθῆναι,νοηθῆναι,νοηθῆναι,νοηθῆναι,ναι,ν,-20.0,VERB,v--anp---,Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass,advcl,0.0,ἐπιδείκνυται,(),False,xxxx͂xxx,False,False,False,False,,,,Past,Inf,Pass,,,,Perf
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,ἐπιδείκνυται,(),False,.,False,True,False,False,,,,,,,,,,

@@ -1,0 +1,36 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Mood,Person,Tense,VerbForm,Voice
+ὁ,ὁ,ὁ,ὁ,ὁ,ο,-20.0,DET,l-s---mn-,Case=Nom|Gender=Masc|Number=Sing,det,0.0,προστάττει,(),False,x̔,False,False,False,False,Nom,Masc,Sing,,,,,
+μὲν,μὲν,μὲν,μὲν,ὲν,μ,-20.0,ADV,d--------,,advmod,0.0,προστάττει,(),False,xx̀x,False,False,False,False,,,,,,,,
+δὴ,δὴ,δὴ,δὴ,δὴ,δ,-20.0,ADV,d--------,,advmod,0.0,προστάττει,(),False,xx̀,False,False,False,False,,,,,,,,
+προστάττει,προστάττει,προστάττω,προστάττει,τει,π,-20.0,VERB,v3spia---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,ROOT,0.0,προστάττει,(),False,xxxx́xxxx,False,False,False,False,,,Sing,Ind,3,Pres,Fin,Act
+τῇ,τῇ,τῇ,τῇ,ῇ,τ,-20.0,DET,l-s---fd-,Case=Dat|Gender=Fem|Number=Sing,det,0.0,γῇ,(),False,xx͂ͅ,False,False,False,False,Dat,Fem,Sing,,,,,
+γῇ,γῇ,γῇ,γῇ,ῇ,γ,-20.0,NOUN,n-s---fd-,Case=Dat|Gender=Fem|Number=Sing,iobj,0.0,προστάττει,(),False,xx͂ͅ,False,False,False,False,Dat,Fem,Sing,,,,,
+ταῦτα,ταῦτα,ταῦτα,ταῦτα,͂τα,τ,-20.0,PRON,p-p---na-,Case=Acc|Gender=Neut|Number=Plur,obj,0.0,γεννῆσαι,(),False,xxx͂xx,False,False,False,False,Acc,Neut,Plur,,,,,
+γεννῆσαι,γεννῆσαι,γεννῆσαι,γεννῆσαι,σαι,γ,-20.0,VERB,v--ana---,Tense=Past|VerbForm=Inf|Voice=Act,xcomp,0.0,προστάττει,(),False,xxxx͂xxx,False,False,False,False,,,,,,Past,Inf,Act
+·,·,·,·,·,·,-20.0,PUNCT,u--------,,punct,0.0,προστάττει,(),False,·,False,True,False,False,,,,,,,,
+ἡ,ἡ,ἡ,ἡ,ἡ,η,-20.0,PRON,p-s---fn-,Case=Nom|Gender=Fem|Number=Sing,nsubj,0.0,τίκτει,(),False,x̔,False,False,False,False,Nom,Fem,Sing,,,,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,ADV,d--------,,advmod,0.0,τίκτει,(),False,xx̀,False,False,False,False,,,,,,,,
+’,’,έ,',’,’,-20.0,ADV,d--------,,advmod,0.0,τίκτει,(),False,’,False,True,False,False,,,,,,,,
+ὥσπερ,ὥσπερ,ὥσπερ,ὥσπερ,περ,ω,-20.0,ADV,d--------,,advmod,0.0,κυοφοροῦσα,(),False,x̔́xxxx,False,False,False,False,,,,,,,,
+ἐκ,ἐκ,ἐκ,ἐκ,ἐκ,ε,-20.0,ADP,r--------,,case,0.0,πολλοῦ,(),False,x̓x,False,False,False,False,,,,,,,,
+πολλοῦ,πολλοῦ,πολλοῦ,πολλοῦ,οῦ,π,-20.0,ADJ,a-s---ng-,Case=Gen|Gender=Neut|Number=Sing,obl,0.0,κυοφοροῦσα,(),False,xxxx͂,False,False,False,False,Gen,Neut,Sing,,,,,
+κυοφοροῦσα,κυοφοροῦσα,κυοφοροῦσα,κυοφοροῦσα,͂σα,κ,-20.0,VERB,v-sppafn-,Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act,advcl,0.0,τίκτει,"(ὠδίνουσα,)",False,xxxx͂xx,False,False,False,False,Nom,Fem,Sing,,,Pres,Part,Act
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,c--------,,cc,0.0,κυοφοροῦσα,(),False,xxx̀,False,False,False,False,,,,,,,,
+ὠδίνουσα,ὠδίνουσα,ὠδίνω,ὠδίνουσα,υσα,ω,-20.0,VERB,v-sppafn-,Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act,conj,0.0,κυοφοροῦσα,"(κυοφοροῦσα,)",False,x̓xx́xxxx,False,False,False,False,Nom,Fem,Sing,,,Pres,Part,Act
+τίκτει,τίκτει,τίκτω,τίκτει,τει,τ,-20.0,VERB,v3spia---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,ROOT,0.0,τίκτει,(),False,xx́xxxx,False,False,False,False,,,Sing,Ind,3,Pres,Fin,Act
+πάσας,πάσας,πάσας,πάσας,σας,π,-20.0,ADJ,a-p---fa-,Case=Acc|Gender=Fem|Number=Plur,obj,0.0,τίκτει,"(πάσας, δένδρων, ἰδέας)",False,xx́xxx,False,False,False,False,Acc,Fem,Plur,,,,,
+μὲν,μὲν,μὲν,μὲν,ὲν,μ,-20.0,ADV,d--------,,advmod,0.0,πάσας,(),False,xx̀x,False,False,False,False,,,,,,,,
+τὰς,τὰς,τὰς,τὰς,ὰς,τ,-20.0,DET,l-p---fa-,Case=Acc|Gender=Fem|Number=Plur,det,0.0,σπαρτῶν,(),False,xx̀x,False,False,False,False,Acc,Fem,Plur,,,,,
+σπαρτῶν,σπαρτῶν,σπαρτῶν,σπαρτῶν,ῶν,σ,-20.0,NOUN,n-p---fg-,Case=Gen|Gender=Fem|Number=Plur,nmod,0.0,πάσας,(),False,xxxx͂x,False,False,False,False,Gen,Fem,Plur,,,,,
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,πάσας,(),False,",",False,True,False,False,,,,,,,,
+πάσας,πάσας,πάσας,πάσας,σας,π,-20.0,ADJ,a-p---fa-,Case=Acc|Gender=Fem|Number=Plur,conj,0.0,πάσας,"(πάσας, δένδρων, ἰδέας)",False,xx́xxx,False,False,False,False,Acc,Fem,Plur,,,,,
+δὲ,δὲ,οὔδὲ,δὲ,δὲ,δ,-20.0,ADV,d--------,,advmod,0.0,πάσας,(),False,xx̀,False,False,False,False,,,,,,,,
+τὰς,τὰς,τὰς,τὰς,ὰς,τ,-20.0,DET,l-p---fa-,Case=Acc|Gender=Fem|Number=Plur,det,0.0,δένδρων,(),False,xx̀x,False,False,False,False,Acc,Fem,Plur,,,,,
+δένδρων,δένδρων,δένδρον,δένδρων,ρων,δ,-20.0,NOUN,n-p---ng-,Case=Gen|Gender=Neut|Number=Plur,conj,0.0,πάσας,"(πάσας, πάσας, ἰδέας)",False,xx́xxxx,False,False,False,False,Gen,Neut,Plur,,,,,
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,ἔτι,(),False,",",False,True,False,False,,,,,,,,
+ἔτι,ἔτι,ἔτι,ἔτι,́τι,ε,-20.0,ADV,d--------,,dep,0.0,τίκτει,(),False,x̓́xx,False,False,False,False,,,,,,,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,CCONJ,c--------,,cc,0.0,τίκτει,(),False,xx̀,False,False,False,False,,,,,,,,
+καρπῶν,καρπῶν,καρπῶν,καρπῶν,ῶν,κ,-20.0,NOUN,n-p---mg-,Case=Gen|Gender=Masc|Number=Plur,nmod,0.0,ἰδέας,(),False,xxxx͂x,False,False,False,False,Gen,Masc,Plur,,,,,
+ἀμυθήτους,ἀμυθήτους,ἀμυθήτους,ἀμυθήτους,ους,α,-20.0,ADJ,a-p---fa-,Case=Acc|Gender=Fem|Number=Plur,nmod,0.0,ἰδέας,(),False,x̓xxxx́xxxx,False,False,False,False,Acc,Fem,Plur,,,,,
+ἰδέας,ἰδέας,ἰδέα,ἰδέας,́ας,ι,-20.0,NOUN,n-p---fa-,Case=Acc|Gender=Fem|Number=Plur,conj,0.0,πάσας,"(πάσας, πάσας, δένδρων)",False,x̓xx́xx,False,False,False,False,Acc,Fem,Plur,,,,,
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,τίκτει,(),False,.,False,True,False,False,,,,,,,,

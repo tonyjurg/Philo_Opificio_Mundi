@@ -1,0 +1,3 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number
+τὴν,τὴν,τὴν,τὴν,ὴν,τ,-20.0,DET,l-s---fa-,Case=Acc|Gender=Fem|Number=Sing,det,0.0,δὲ’.,(),False,xx̀x,False,False,False,False,Acc,Fem,Sing
+δὲ’.,δὲ’.,δὲ’.,δὲ’.,̀’.,δ,-20.0,PART,g--------,,ROOT,0.0,δὲ’.,(),False,xx̀’.,False,False,False,False,,,

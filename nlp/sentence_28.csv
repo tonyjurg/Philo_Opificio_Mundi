@@ -1,0 +1,11 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Aspect,Mood,Person,Tense,VerbForm,Voice
+οὐδενὶ,οὐδενὶ,οὐδενὶ,οὐδενὶ,νὶ,ο,-20.0,ADJ,a-s---md-,Case=Dat|Gender=Masc|Number=Sing,det,0.0,παρακλήτῳ,(),False,xx̓xxxx̀,False,False,False,False,Dat,Masc,Sing,,,,,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,PART,g--------,,advmod,0.0,παρακλήτῳ,(),False,xx̀,False,False,False,False,,,,,,,,,
+παρακλήτῳ,παρακλήτῳ,παρακλήτῳ,παρακλήτῳ,τῳ,π,-20.0,NOUN,n-s---md-,Case=Dat|Gender=Masc|Number=Sing,ROOT,0.0,παρακλήτῳ,"(ἕτερος,)",False,xxxx́xxͅ,False,False,False,False,Dat,Masc,Sing,,,,,,
+—,—,—,-,—,—,-20.0,PUNCT,u--------,,punct,0.0,παρακλήτῳ,(),False,—,False,True,False,False,,,,,,,,,
+τίς,τίς,τίς,τίς,ίς,τ,-20.0,PRON,p-s---mn-,Case=Nom|Gender=Masc|Number=Sing,nsubj,0.0,ἕτερος,(),False,xx́x,False,False,False,False,Nom,Masc,Sing,,,,,,
+γὰρ,γὰρ,γὰρ,γὰρ,ὰρ,γ,-20.0,PART,g--------,,advmod,0.0,ἕτερος,(),False,xx̀x,False,False,False,False,,,,,,,,,
+ἦν,ἦν,ἦν,ἦν,̓͂ν,η,-20.0,AUX,v3siia---,Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,cop,0.0,ἕτερος,(),False,x̓͂x,False,False,False,False,,,Sing,Imp,Ind,3,Past,Fin,Act
+ἕτερος,ἕτερος,ἕτερος,ἕτερος,ρος,ε,-20.0,ADJ,a-s---mn-,Case=Nom|Gender=Masc|Number=Sing,conj,0.0,παρακλήτῳ,"(παρακλήτῳ,)",False,x̔́xxxx,False,False,False,False,Nom,Masc,Sing,,,,,,
+;,;,;,;,;,;,-20.0,PUNCT,u--------,,punct,0.0,παρακλήτῳ,(),False,;,False,True,False,False,,,,,,,,,
+—,—,—,-,—,—,-20.0,PUNCT,u--------,,punct,0.0,παρακλήτῳ,(),False,—,False,True,False,False,,,,,,,,,

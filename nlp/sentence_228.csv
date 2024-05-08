@@ -1,0 +1,5 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number
+ἀλλὰ᾽,ἀλλὰ᾽,ἀλλὰ᾽,ἀλλὰ᾽,ὰ᾽,α,-20.0,PUNCT,V-,,ROOT,0.0,ἀλλὰ᾽,(),False,x̓xxx̀᾽,False,False,False,False,,,
+&,&,&,&,&,&,-20.0,NOUN,d--------,Case=Gen|Gender=Masc|Number=Sing,punct,0.0,γτ,(),False,&,False,True,False,False,Gen,Masc,Sing
+γτ,γτ,γτ,γτ,γτ,γ,-20.0,ADV,d--------,,advmod,0.0,ἀλλὰ᾽,(),False,xx,True,False,False,False,,,
+;,;,;,;,;,;,-20.0,PUNCT,u--------,,punct,0.0,ἀλλὰ᾽,(),False,;,False,True,False,False,,,

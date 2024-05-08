@@ -1,0 +1,5 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space
+ς,ς,ς,ς,ς,ς,-20.0,X,v2spia---,,ROOT,0.0,ς,(),False,x,True,False,False,False
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,ROOT,0.0,.,(),False,.,False,True,False,False
+),),),),),),-20.0,PUNCT,u--------,,ROOT,0.0,),(),False,),False,True,False,False
+·,·,·,·,·,·,-20.0,PUNCT,u--------,,ROOT,0.0,·,(),False,·,False,True,False,False

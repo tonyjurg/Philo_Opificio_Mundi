@@ -1,0 +1,23 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Mood,Number,Person,Tense,VerbForm,Voice,Case,Gender,Definite,PronType
+φησὶ,φησὶ,φησὶ,φησὶ,σὶ,φ,-20.0,VERB,v3spia---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,ROOT,0.0,φησὶ,(),False,xxxx̀,False,False,False,False,Ind,Sing,3,Pres,Fin,Act,,,,
+δὲ,δὲ,δέ̀,δὲ,δὲ,δ,-20.0,ADV,d--------,,discourse,0.0,φησὶ,(),False,xx̀,False,False,False,False,,,,,,,,,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,ADV,d--------,,advmod,0.0,ἱπποκράτης,(),False,xxx̀,False,False,False,False,,,,,,,,,,
+ἱπποκράτης,ἱπποκράτης,ἱπποκράτης,ἱπποκράτης,της,ι,-20.0,PROPN,n-s---mn-,Case=Nom|Gender=Masc|Number=Sing,nsubj,0.0,φησὶ,(),False,x̔xxxx́xxx,False,False,False,False,,Sing,,,,,Nom,Masc,,
+ὁ,ὁ,ὁ,ὁ,ὁ,ο,-20.0,DET,l-s---mn-,Case=Nom|Gender=Masc|Number=Sing,dep,0.0,ἱπποκράτης,(),False,x̔,False,False,False,False,,Sing,,,,,Nom,Masc,,
+τῆς,τῆς,τῆς,τῆς,ῆς,τ,-20.0,DET,S-,Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem,det,0.0,φύσεως,(),False,xx͂x,False,False,False,False,,Sing,,,,,Gen,Fem,Def,Dem
+φύσεως,φύσεως,φύσις,φύσεως,εως,φ,-20.0,NOUN,n-s---fg-,Case=Gen|Gender=Fem|Number=Sing,nmod,0.0,ἐπιγνώμων,(),False,xx́xxxx,False,False,False,False,,Sing,,,,,Gen,Fem,,
+ἐπιγνώμων,ἐπιγνώμων,ἐπιγνώμων,ἐπιγνώμων,μων,ε,-20.0,VERB,A-,Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act,nmod,0.0,ἱπποκράτης,(),False,x̓xxxx́xxx,False,False,False,False,,Sing,,Pres,Part,Act,Nom,Masc,,
+ἐν,ἐν,ἐν,ἐν,ἐν,ε,-20.0,ADP,r--------,,case,0.0,ἑβδομάδι,(),False,x̓x,False,False,False,False,,,,,,,,,,
+ἑβδομάδι,ἑβδομάδι,ἑβδομάς,ἑβδομάδι,́δι,ε,-20.0,NOUN,n-s---fd-,Case=Dat|Gender=Fem|Number=Sing,obl,0.0,κρατύνεσθαι,(),False,x̔xxxx́xx,False,False,False,False,,Sing,,,,,Dat,Fem,,
+κρατύνεσθαι,κρατύνεσθαι,κρατύνω,κρατύνεσθαι,θαι,κ,-20.0,VERB,V-,Tense=Pres|VerbForm=Inf|Voice=Pass,ccomp,0.0,φησὶ,"(πῆξιν, ἀνάπλασιν)",False,xxxx́xxxx,False,False,False,False,,,,Pres,Inf,Pass,,,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,C-,,cc,0.0,κρατύνεσθαι,(),False,xxx̀,False,False,False,False,,,,,,,,,,
+τὴν,τὴν,τὴν,τὴν,ὴν,τ,-20.0,DET,l-s---fa-,Case=Acc|Gender=Fem|Number=Sing,det,0.0,πῆξιν,(),False,xx̀x,False,False,False,False,,Sing,,,,,Acc,Fem,,
+πῆξιν,πῆξιν,πῆξις,πῆξιν,ξιν,π,-20.0,NOUN,Nb,Case=Acc|Gender=Fem|Number=Sing,conj,0.0,κρατύνεσθαι,"(κρατύνεσθαι, ἀνάπλασιν)",False,xx͂xxx,False,False,False,False,,Sing,,,,,Acc,Fem,,
+τῆς,τῆς,τῆ,τῆς,ῆς,τ,-20.0,DET,l-s---fg-,Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem,det,0.0,γονῆς,(),False,xx͂x,False,False,False,False,,Sing,,,,,Gen,Fem,Def,Dem
+γονῆς,γονῆς,γονῆ,γονῆς,ῆς,γ,-20.0,NOUN,n-s---fg-,Case=Gen|Gender=Fem|Number=Sing,nmod,0.0,πῆξιν,(),False,xxxx͂x,False,False,False,False,,Sing,,,,,Gen,Fem,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,C-,,cc,0.0,πῆξιν,(),False,xxx̀,False,False,False,False,,,,,,,,,,
+τὴν,τὴν,τὴν,τὴν,ὴν,τ,-20.0,DET,l-s---fa-,Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem,det,0.0,ἀνάπλασιν,(),False,xx̀x,False,False,False,False,,Sing,,,,,Acc,Fem,Def,Dem
+ἀνάπλασιν,ἀνάπλασιν,ἀνάπλασις,ἀνάπλασιν,σιν,α,-20.0,NOUN,n-s---fa-,Case=Acc|Gender=Fem|Number=Sing,conj,0.0,πῆξιν,"(κρατύνεσθαι, πῆξιν)",False,x̓xx́xxxx,False,False,False,False,,Sing,,,,,Acc,Fem,,
+τῆς,τῆς,τῆ,τῆς,ῆς,τ,-20.0,DET,l-s---fg-,Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem,det,0.0,σαρκός,(),False,xx͂x,False,False,False,False,,Sing,,,,,Gen,Fem,Def,Dem
+σαρκός,σαρκός,σαρκός,σαρκός,ός,σ,-20.0,NOUN,n-s---fg-,Case=Gen|Gender=Fem|Number=Sing,nmod,0.0,ἀνάπλασιν,(),False,xxxx́x,False,False,False,False,,Sing,,,,,Gen,Fem,,
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,φησὶ,(),False,.,False,True,False,False,,,,,,,,,,

@@ -1,0 +1,8 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Aspect,Mood,Person,Tense,VerbForm,Voice
+τότε,τότε,τότε,τότε,́τε,τ,-20.0,ADV,d--------,,advmod,0.0,συνίστατο,(),False,xx́xx,False,False,False,False,,,,,,,,,
+μὲν,μὲν,μὲν,μὲν,ὲν,μ,-20.0,ADV,d--------,,advmod,0.0,συνίστατο,(),False,xx̀x,False,False,False,False,,,,,,,,,
+οὖν,οὖν,οὖν,οὖν,̓͂ν,ο,-20.0,ADV,d--------,,advmod,0.0,συνίστατο,(),False,xx̓͂x,False,False,False,False,,,,,,,,,
+ἅμα,ἅμα,ἅμα,ἅμα,́μα,α,-20.0,ADV,d--------,,advmod,0.0,συνίστατο,(),False,x̔́xx,False,False,False,False,,,,,,,,,
+πάντα,πάντα,πάντα,πάντα,ντα,π,-20.0,ADJ,a-p---nn-,Case=Nom|Gender=Neut|Number=Plur,nsubj,0.0,συνίστατο,(),False,xx́xxx,False,False,False,False,Nom,Neut,Plur,,,,,,
+συνίστατο,συνίστατο,συνίστατο,συνίστατο,ατο,σ,-20.0,VERB,v3siie---,Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid,ROOT,0.0,συνίστατο,(),False,xxxx́xxxx,False,False,False,False,,,Sing,Imp,Ind,3,Past,Fin,Mid
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,συνίστατο,(),False,.,False,True,False,False,,,,,,,,,

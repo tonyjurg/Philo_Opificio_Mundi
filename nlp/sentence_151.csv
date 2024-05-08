@@ -1,0 +1,8 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Aspect,Mood,Person,Tense,VerbForm,Voice
+ἑκάτερον,ἑκάτερον,ἑκάτερος,ἑκάτερον,ρον,ε,-20.0,ADJ,a-s---na-,Case=Acc|Gender=Neut|Number=Sing,obj,0.0,ἐπισκεπτέον,(),False,x̔xx́xxxx,False,False,False,False,Acc,Neut,Sing,,,,,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,ADV,d--------,,advmod,0.0,ἐπισκεπτέον,(),False,xx̀,False,False,False,False,,,,,,,,,
+εἶδος,εἶδος,εἶδος,εἶδος,δος,ε,-20.0,NOUN,n-s---na-,Case=Acc|Gender=Neut|Number=Sing,obl,0.0,ἐπισκεπτέον,(),False,xx̓͂xxx,False,False,False,False,Acc,Neut,Sing,,,,,,
+οὐ,οὐ,οὐ,οὐ,οὐ,ο,-20.0,ADV,d--------,,advmod,0.0,παρέργως,(),False,xx̓,False,False,False,False,,,,,,,,,
+παρέργως,παρέργως,παρέργως,παρέργως,γως,π,-20.0,ADV,d--------,,advmod,0.0,ἐπισκεπτέον,(),False,xxxx́xxxx,False,False,False,False,,,,,,,,,
+ἐπισκεπτέον,ἐπισκεπτέον,ἐπισκεπτέον,ἐπισκεπτέον,́ον,ε,-20.0,VERB,v2sama---,Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,ROOT,0.0,ἐπισκεπτέον,(),False,x̓xxxx́xx,False,False,False,False,,,Plur,Imp,Ind,3,Past,Fin,Act
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,ἐπισκεπτέον,(),False,.,False,True,False,False,,,,,,,,,

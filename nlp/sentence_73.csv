@@ -1,0 +1,14 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Mood,Number,Person,Tense,VerbForm,Voice,Case,Gender
+ἥδε᾽,ἥδε᾽,ἥδε᾽,ἥδε᾽,δε᾽,η,-20.0,AUX,v3spia---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,cop,0.0,αἰτία,(),False,x̔́xx᾽,False,False,False,False,Ind,Sing,3,Pres,Fin,Act,,
+ἐστὶ,ἐστὶ,ἐστὶ,ἐστὶ,τὶ,ε,-20.0,AUX,v3spia---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,cop,0.0,αἰτία,(),False,x̓xxx̀,False,False,False,False,Ind,Sing,3,Pres,Fin,Act,,
+αἰτία,αἰτία,αἰτία,αἰτία,ία,α,-20.0,NOUN,n-s---fn-,Case=Nom|Gender=Fem|Number=Sing,ROOT,0.0,αἰτία,(),False,xx̓xx́x,False,False,False,False,,Sing,,,,,Nom,Fem
+διὰ,διὰ,διὰ,διὰ,ιὰ,δ,-20.0,ADP,r--------,,case,0.0,ἣν,(),False,xxx̀,False,False,False,False,,,,,,,,
+’,’,ά,',’,’,-20.0,ADP,r--------,,case,0.0,ἣν,(),False,’,False,True,False,False,,,,,,,,
+ἣν,ἣν,ἣν,ἣν,̔̀ν,η,-20.0,PRON,p-s---fa-,Case=Acc|Gender=Fem|Number=Sing,obl,0.0,ἐβλάστησε,(),False,x̔̀x,False,False,False,False,,Sing,,,,,Acc,Fem
+προτέρα,προτέρα,προτέρος,προτέρα,́ρα,π,-20.0,ADJ,a-p---na-,Case=Acc|Gender=Neut|Number=Plur,advmod,0.0,ἐβλάστησε,(),False,xxxx́xx,False,False,False,False,,Plur,,,,,Acc,Neut
+μὲν,μὲν,μὲν,μὲν,ὲν,μ,-20.0,ADV,d--------,,advmod,0.0,ἐβλάστησε,(),False,xx̀x,False,False,False,False,,,,,,,,
+ἐβλάστησε,ἐβλάστησε,ἐβλάστησε,ἐβλάστησε,ησε,ε,-20.0,VERB,v3saia---,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,acl,0.0,αἰτία,"(ἐχλοηφόρησεν,)",False,x̓xxx́xxxx,False,False,False,False,Ind,Sing,3,Past,Fin,Act,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,C-,,cc,0.0,ἐβλάστησε,(),False,xxx̀,False,False,False,False,,,,,,,,
+ἐχλοηφόρησεν,ἐχλοηφόρησεν,ἐχλοηφόρησεν,ἐχλοηφόρησεν,σεν,ε,-20.0,VERB,v3saia---,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,conj,0.0,ἐβλάστησε,"(ἐβλάστησε,)",False,x̓xxxx́xxxx,False,False,False,False,Ind,Sing,3,Past,Fin,Act,,
+ἡ,ἡ,ἡ,ἡ,ἡ,η,-20.0,DET,l-s---fn-,Case=Nom|Gender=Fem|Number=Sing,det,0.0,γῆ.,(),False,x̔,False,False,False,False,,Sing,,,,,Nom,Fem
+γῆ.,γῆ.,γῆ.,γῆ.,ῆ.,γ,-20.0,PUNCT,u--------,,punct,0.0,αἰτία,(),False,xx͂.,False,False,False,False,,,,,,,,

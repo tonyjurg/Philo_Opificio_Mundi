@@ -1,0 +1,24 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Aspect,Mood,Number,Person,Tense,VerbForm,Voice,Case,Gender
+γεγόνασι,γεγόνασι,γεγόνασι,γεγόνασι,ασι,γ,-20.0,VERB,v3pria---,Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,ROOT,0.0,γεγόνασι,(),False,xxxx́xxxx,False,False,False,False,Perf,Ind,Plur,3,Past,Fin,Act,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,ADV,d--------,,advmod,0.0,γεγόνασι,(),False,xx̀,False,False,False,False,,,,,,,,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,ADV,d--------,,advmod,0.0,μέτρα,(),False,xxx̀,False,False,False,False,,,,,,,,,
+πρὸς,πρὸς,πρὸς,πρὸς,ὸς,π,-20.0,ADP,r--------,,case,0.0,μέτρα,(),False,xxx̀x,False,False,False,False,,,,,,,,,
+μέτρα,μέτρα,μέτρον,μέτρα,τρα,μ,-20.0,NOUN,n-p---na-,Case=Acc|Gender=Neut|Number=Plur,obl,0.0,γεγόνασι,(),False,xx́xxx,False,False,False,False,,,Plur,,,,,Acc,Neut
+χρόνων,χρόνων,χρόνος,χρόνων,νων,χ,-20.0,NOUN,n-p---mg-,Case=Gen|Gender=Masc|Number=Plur,nmod,0.0,μέτρα,(),False,xxx́xxx,False,False,False,False,,,Plur,,,,,Gen,Masc
+·,·,·,·,·,·,-20.0,PUNCT,u--------,,punct,0.0,γεγόνασι,(),False,·,False,True,False,False,,,,,,,,,
+ἡλίου,ἡλίου,ἡλίου,ἡλίου,́ου,η,-20.0,NOUN,n-s---mg-,Case=Gen|Gender=Masc|Number=Sing,nmod,0.0,σελήνης,(),False,x̔xx́xx,False,False,False,False,,,Sing,,,,,Gen,Masc
+γὰρ,γὰρ,γὰρ,γὰρ,ὰρ,γ,-20.0,ADV,d--------,,advmod,0.0,σελήνης,(),False,xx̀x,False,False,False,False,,,,,,,,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,ADV,d--------,,advmod,0.0,γὰρ,(),False,xxx̀,False,False,False,False,,,,,,,,,
+σελήνης,σελήνης,σελήνη,σελήνης,νης,σ,-20.0,NOUN,n-s---fg-,Case=Gen|Gender=Fem|Number=Sing,ROOT,0.0,σελήνης,"(συνέστησαν,)",False,xxxx́xxx,False,False,False,False,,,Sing,,,,,Gen,Fem
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,c--------,,cc,0.0,σελήνης,(),False,xxx̀,False,False,False,False,,,,,,,,,
+τῶν,τῶν,τῶν,τῶν,ῶν,τ,-20.0,DET,l-p---ng-,Case=Gen|Gender=Neut|Number=Plur,det,0.0,ἄλλων,(),False,xx͂x,False,False,False,False,,,Plur,,,,,Gen,Neut
+ἄλλων,ἄλλων,ἄλλος,ἄλλων,λων,α,-20.0,PRON,p-p---ng-,Case=Gen|Gender=Neut|Number=Plur,nmod,0.0,περιόδοις,(),False,x̓́xxxx,False,False,False,False,,,Plur,,,,,Gen,Neut
+τεταγμέναις,τεταγμέναις,τεταγμέναις,τεταγμέναις,αις,τ,-20.0,VERB,v-prpefd-,Aspect=Perf|Case=Dat|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid,nmod,0.0,περιόδοις,(),False,xxxx́xxxx,False,False,False,False,Perf,,Plur,,Past,Part,Mid,Dat,Fem
+περιόδοις,περιόδοις,περιόδο,περιόδοις,οις,π,-20.0,NOUN,n-p---fd-,Case=Dat|Gender=Fem|Number=Plur,obl,0.0,συνέστησαν,(),False,xxxx́xxxx,False,False,False,False,,,Plur,,,,,Dat,Fem
+ἡμέραι,ἡμέραι,ἡμέρα,ἡμέραι,ραι,η,-20.0,NOUN,n-p---fn-,Case=Nom|Gender=Fem|Number=Plur,nsubj,0.0,συνέστησαν,"(μῆνες, ἐνιαυτοὶ)",False,x̔xx́xxx,False,False,False,False,,,Plur,,,,,Nom,Fem
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,ADV,d--------,,advmod,0.0,ἡμέραι,(),False,xxx̀,False,False,False,False,,,,,,,,,
+μῆνες,μῆνες,μῆνες,μῆνες,νες,μ,-20.0,NOUN,n-p---mn-,Case=Nom|Gender=Masc|Number=Plur,conj,0.0,ἡμέραι,"(ἡμέραι, ἐνιαυτοὶ)",False,xx͂xxx,False,False,False,False,,,Plur,,,,,Nom,Masc
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,c--------,,cc,0.0,ἡμέραι,(),False,xxx̀,False,False,False,False,,,,,,,,,
+ἐνιαυτοὶ,ἐνιαυτοὶ,ἐνιαυτοὶ,ἐνιαυτοὶ,οὶ,ε,-20.0,NOUN,n-p---mn-,Case=Nom|Gender=Masc|Number=Plur,conj,0.0,ἡμέραι,"(ἡμέραι, μῆνες)",False,x̓xxxx̀,False,False,False,False,,,Plur,,,,,Nom,Masc
+συνέστησαν,συνέστησαν,συνέστησαν,συνέστησαν,σαν,σ,-20.0,VERB,v3paia---,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,conj,0.0,σελήνης,"(σελήνης,)",False,xxxx́xxxx,False,False,False,False,,Ind,Plur,3,Past,Fin,Act,,
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,σελήνης,(),False,.,False,True,False,False,,,,,,,,,

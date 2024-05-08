@@ -1,0 +1,15 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Mood,Person,Tense,VerbForm,Voice
+μὴ,μὴ,μὴδέ,μὴ,μὴ,μ,-20.0,PART,g--------,,advmod,0.0,χρεῖός,(),False,xx̀,False,False,False,False,,,,,,,,
+γὰρ,γὰρ,γὰρ,γὰρ,ὰρ,γ,-20.0,PART,g--------,,advmod,0.0,χρεῖός,(),False,xx̀x,False,False,False,False,,,,,,,,
+χρεῖός,χρεῖός,χρεῖός,χρεῖός,ός,χ,-20.0,ADJ,a-s---mn-,Case=Nom|Gender=Masc|Number=Sing,ROOT,0.0,χρεῖός,(),False,xxxx͂x́x,False,False,False,False,Nom,Masc,Sing,,,,,
+ἐστι,ἐστι,ἐστι,ἐστι,στι,ε,-20.0,AUX,v3spia---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,cop,0.0,χρεῖός,(),False,x̓xxx,False,False,False,False,,,Sing,Ind,3,Pres,Fin,Act
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,εἴποιμι᾽,(),False,",",False,True,False,False,,,,,,,,
+εἴποιμι᾽,εἴποιμι᾽,εἴποιμι᾽,εἴποιμι᾽,μι᾽,ε,-20.0,PUNCT,V-,,dep,0.0,χρεῖός,(),False,xx̓́xxxx᾽,False,False,False,False,,,,,,,,
+ἄν,ἄν,ἄν,ἄν,̓́ν,α,-20.0,PART,g--------,,mark,0.0,οὑτινοσοῦν,(),False,x̓́x,False,False,False,False,,,,,,,,
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,οὑτινοσοῦν,(),False,",",False,True,False,False,,,,,,,,
+οὑτινοσοῦν,οὑτινοσοῦν,οὑτινοσοῦν,οὑτινοσοῦν,ῦν,ο,-20.0,ADV,d--------,,appos,0.0,χρεῖός,(),False,xx̔xxxx͂x,False,False,False,False,,,,,,,,
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,ὑπήκοα,(),False,",",False,True,False,False,,,,,,,,
+ᾧ,ᾧ,ᾧ,ᾧ,̔͂ͅ,ω,-20.0,PRON,p-s---md-,Case=Dat|Gender=Masc|Number=Sing,iobj,0.0,ὑπήκοα,(),False,x̔͂ͅ,False,False,False,False,Dat,Masc,Sing,,,,,
+πάντα,πάντα,πάντος,πάντα,ντα,π,-20.0,ADJ,a-p---nn-,Case=Nom|Gender=Neut|Number=Plur,nsubj,0.0,ὑπήκοα,(),False,xx́xxx,False,False,False,False,Nom,Neut,Plur,,,,,
+ὑπήκοα,ὑπήκοα,ὑπήκοος,ὑπήκοα,κοα,υ,-20.0,ADJ,a-p---nn-,Case=Nom|Gender=Neut|Number=Plur,acl,0.0,οὑτινοσοῦν,(),False,x̔xx́xxx,False,False,False,False,Nom,Neut,Plur,,,,,
+;,;,;,;,;,;,-20.0,PUNCT,u--------,,punct,0.0,οὑτινοσοῦν,(),False,;,False,True,False,False,,,,,,,,

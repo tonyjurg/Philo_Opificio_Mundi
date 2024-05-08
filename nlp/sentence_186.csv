@@ -1,0 +1,6 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number
+τέτταρα,τέτταρα,τέτταροι,τέτταρα,αρα,τ,-20.0,ADJ,m--------,Case=Nom|Gender=Neut|Number=Plur,ROOT,0.0,τέτταρα,(),False,xx́xxxx,False,False,False,False,Nom,Neut,Plur
+&,&,&,&,&,&,-20.0,CCONJ,d--------,,advmod,0.0,γτ,(),False,&,False,True,False,False,,,
+γτ,γτ,γτ,γτ,γτ,γ,-20.0,ADV,d--------,,advmod,0.0,τέτταρα,(),False,xx,True,False,False,False,,,
+;,;,;,;,;,;,-20.0,PUNCT,u--------,,advmod,0.0,τέτταρα,(),False,;,False,True,False,False,,,
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,τέτταρα,(),False,",",False,True,False,False,,,

@@ -1,0 +1,5 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,c--------,,ROOT,0.0,καὶ,(),False,xxx̀,False,False,False,False
+&,&,&,&,&,&,-20.0,PUNCT,c--------,,punct,0.0,;,(),False,&,False,True,False,False
+γτ,γτ,γτ,γτ,γτ,γ,-20.0,ADV,d--------,,fixed,0.0,&,(),False,xx,True,False,False,False
+;,;,;,;,;,;,-20.0,PUNCT,u--------,,ROOT,0.0,;,(),False,;,False,True,False,False

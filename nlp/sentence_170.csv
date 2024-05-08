@@ -1,0 +1,14 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Aspect,Mood,Person,Tense,VerbForm,Voice
+μόνος,μόνος,μόνος,μόνος,νος,μ,-20.0,ADJ,a-s---mn-,Case=Nom|Gender=Masc|Number=Sing,ROOT,0.0,μόνος,"(πέφυκεν,)",False,xx́xxx,False,False,False,False,Nom,Masc,Sing,,,,,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,ADV,d--------,,dep,0.0,μόνος,(),False,xx̀,False,False,False,False,,,,,,,,,
+’,’,ά,',’,’,-20.0,CCONJ,c--------,,mark,0.0,πέφυκεν,(),False,’,False,True,False,False,,,,,,,,,
+ὡς,ὡς,ὡς,ὡς,ὡς,ω,-20.0,SCONJ,d--------,,advmod,0.0,ἔφην,(),False,x̔x,False,False,False,False,,,,,,,,,
+ἔφην,ἔφην,ἔφην,ἔφην,φην,ε,-20.0,VERB,V-,Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act,advcl,0.0,πέφυκεν,(),False,x̓́xxx,False,False,False,False,,,Sing,Imp,Ind,1,Past,Fin,Act
+ὁ,ὁ,ὁ,ὁ,ὁ,ο,-20.0,DET,l-s---mn-,Case=Nom|Gender=Masc|Number=Sing,det,0.0,ἑπτὰ,(),False,x̔,False,False,False,False,Nom,Masc,Sing,,,,,,
+ἑπτὰ,ἑπτὰ,ἑπτὰ,ἑπτὰ,τὰ,ε,-20.0,NUM,m--------,,nsubj,0.0,πέφυκεν,(),False,x̔xxx̀,False,False,False,False,,,,,,,,,
+οὔτε,οὔτε,οὔτε,οὔτε,́τε,ο,-20.0,CCONJ,c--------,,advmod,0.0,γεννᾶν,(),False,xx̓́xx,False,False,False,False,,,,,,,,,
+γεννᾶν,γεννᾶν,γεννᾶν,γεννᾶν,ᾶν,γ,-20.0,VERB,v--pna---,Tense=Pres|VerbForm=Inf|Voice=Act,xcomp,0.0,πέφυκεν,"(γεννᾶσθαι,)",False,xxxx͂x,False,False,False,False,,,,,,,Pres,Inf,Act
+πέφυκεν,πέφυκεν,πέφυκα,πέφυκεν,κεν,π,-20.0,VERB,v3sria---,Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,conj,0.0,μόνος,"(μόνος,)",False,xx́xxxx,False,False,False,False,,,Sing,Perf,Ind,3,Past,Fin,Act
+οὔτε,οὔτε,οὔτε,οὔτε,́τε,ο,-20.0,CCONJ,c--------,,cc,0.0,γεννᾶν,(),False,xx̓́xx,False,False,False,False,,,,,,,,,
+γεννᾶσθαι,γεννᾶσθαι,γεννᾶσθαι,γεννᾶσθαι,θαι,γ,-20.0,VERB,V-,Tense=Pres|VerbForm=Inf|Voice=Pass,conj,0.0,γεννᾶν,"(γεννᾶν,)",False,xxxx͂xxxx,False,False,False,False,,,,,,,Pres,Inf,Pass
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,μόνος,(),False,.,False,True,False,False,,,,,,,,,

@@ -1,0 +1,3 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space
+ται,ται,ται,ται,ται,τ,-20.0,X,p-p---fn-,,ROOT,0.0,ται,(),False,xxx,True,False,False,False
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,ται,(),False,.,False,True,False,False

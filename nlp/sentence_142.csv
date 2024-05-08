@@ -1,0 +1,7 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,c--------,,ROOT,0.0,καὶ,(),False,xxx̀,False,False,False,False,,,
+νυκτός,νυκτός,νυκτός,νυκτός,ός,ν,-20.0,NOUN,n-s---fg-,Case=Gen|Gender=Fem|Number=Sing,ROOT,0.0,νυκτός,(),False,xxxx́x,False,False,False,False,Gen,Fem,Sing
+&,&,&,&,&,&,-20.0,CCONJ,d--------,,advmod,0.0,γτ,(),False,&,False,True,False,False,,,
+γτ,γτ,γτ,γτ,γτ,γ,-20.0,PART,g--------,,advmod,0.0,;,(),False,xx,True,False,False,False,,,
+;,;,;,;,;,;,-20.0,PUNCT,u--------,,advmod,0.0,νυκτός,(),False,;,False,True,False,False,,,
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,νυκτός,(),False,",",False,True,False,False,,,

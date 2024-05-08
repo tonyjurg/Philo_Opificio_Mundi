@@ -1,0 +1,5 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Tense,VerbForm,Voice,Case,Gender,Number
+οφ̔αίνεσθαι,οφ̔αίνεσθαι,οφ̔αίνω,οφ̔αίνεσθαι,θαι,ο,-20.0,VERB,v--pne---,Tense=Pres|VerbForm=Inf|Voice=Mid,xcomp,0.0,τολμᾶν,(),False,xx̔xx́xxxx,False,False,False,False,Pres,Inf,Mid,,,
+τολμᾶν,τολμᾶν,τολμᾶν,τολμᾶν,ᾶν,τ,-20.0,VERB,v--pna---,Tense=Pres|VerbForm=Inf|Voice=Act,ROOT,0.0,τολμᾶν,(),False,xxxx͂x,False,False,False,False,Pres,Inf,Act,,,
+ἀφιλόσοφον,ἀφιλόσοφον,ἀφιλόσοφος,ἀφιλόσοφον,φον,α,-20.0,ADJ,a-s---ma-,Case=Acc|Gender=Masc|Number=Sing,obj,0.0,τολμᾶν,(),False,x̓xxxx́xxxx,False,False,False,False,,,,Acc,Masc,Sing
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,τολμᾶν,(),False,.,False,True,False,False,,,,,,

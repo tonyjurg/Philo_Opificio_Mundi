@@ -1,0 +1,17 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Degree,Mood,Person,Tense,VerbForm,Voice
+πάλιν,πάλιν,πάλιν,πάλιν,λιν,π,-20.0,ADV,d--------,,advmod,0.0,χορηγεῖται,(),False,xx́xxx,False,False,False,False,,,,,,,,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,ADV,Df,,discourse,0.0,χορηγεῖται,(),False,xx̀,False,False,False,False,,,,,,,,,
+’,’,έ,',’,’,-20.0,ADV,Df,,advmod,0.0,χορηγεῖται,(),False,’,False,True,False,False,,,,,,,,,
+αὖ,αὖ,αὖ,αὖ,ὖ,α,-20.0,ADV,Df,,advmod,0.0,χορηγεῖται,(),False,xx̓͂,False,False,False,False,,,,,,,,,
+γυναιξὶν,γυναιξὶν,γυναιξὶν,γυναιξὶν,ὶν,γ,-20.0,NOUN,n-p---fd-,Case=Dat|Gender=Fem|Number=Plur,obl,0.0,χορηγεῖται,(),False,xxxx̀x,False,False,False,False,Dat,Fem,Plur,,,,,,
+ἡ,ἡ,ἡ,ἡ,ἡ,η,-20.0,DET,l-s---fn-,Case=Nom|Gender=Fem|Number=Sing,det,0.0,φορὰ,(),False,x̔,False,False,False,False,Nom,Fem,Sing,,,,,,
+φορὰ,φορὰ,φορὰ,φορὰ,ρὰ,φ,-20.0,NOUN,n-s---fn-,Case=Nom|Gender=Fem|Number=Sing,appos,0.0,γυναιξὶν,(),False,xxxx̀,False,False,False,False,Nom,Fem,Sing,,,,,,
+τῶν,τῶν,τῶν,τῶν,ῶν,τ,-20.0,DET,l-p---ng-,Case=Gen|Gender=Neut|Number=Plur,det,0.0,καταμηνίων,(),False,xx͂x,False,False,False,False,Gen,Neut,Plur,,,,,,
+καταμηνίων,καταμηνίων,καταμηνίων,καταμηνίων,́ων,κ,-20.0,NOUN,n-p---ng-,Case=Gen|Gender=Neut|Number=Plur,nmod,0.0,φορὰ,(),False,xxxx́xx,False,False,False,False,Gen,Neut,Plur,,,,,,
+εἰς,εἰς,εἰς,εἰς,ἰς,ε,-20.0,ADP,r--------,,case,0.0,ἑπτὰ,(),False,xx̓x,False,False,False,False,,,,,,,,,
+ἑπτὰ,ἑπτὰ,ἑπτὰ,ἑπτὰ,τὰ,ε,-20.0,NUM,Ma,,dep,0.0,χορηγεῖται,(),False,x̔xxx̀,False,False,False,False,,,,,,,,,
+τὰς,τὰς,τὰς,τὰς,ὰς,τ,-20.0,DET,l-p---fa-,Case=Acc|Gender=Fem|Number=Plur,det,0.0,ἡμέρας,(),False,xx̀x,False,False,False,False,Acc,Fem,Plur,,,,,,
+πλείστας,πλείστας,πλείστας,πλείστας,τας,π,-20.0,ADJ,a-p---fas,Case=Acc|Degree=Sup|Gender=Fem|Number=Plur,nmod,0.0,ἡμέρας,(),False,xxxx́xxxx,False,False,False,False,Acc,Fem,Plur,Sup,,,,,
+ἡμέρας,ἡμέρας,ἡμέρα,ἡμέρας,ρας,η,-20.0,NOUN,n-p---fa-,Case=Acc|Gender=Fem|Number=Plur,obl,0.0,χορηγεῖται,(),False,x̔xx́xxx,False,False,False,False,Acc,Fem,Plur,,,,,,
+χορηγεῖται,χορηγεῖται,χορηγεῖται,χορηγεῖται,ται,χ,-20.0,VERB,v3spie---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid,ROOT,0.0,χορηγεῖται,(),False,xxxx͂xxx,False,False,False,False,,,Sing,,Ind,3,Pres,Fin,Mid
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,χορηγεῖται,(),False,.,False,True,False,False,,,,,,,,,

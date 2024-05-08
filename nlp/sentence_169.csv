@@ -1,0 +1,12 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Tense,VerbForm,Voice,Mood,Person
+ὀκτὼ,ὀκτὼ,ὀκτὼ,ὀκτὼ,τὼ,ο,-20.0,NUM,m--------,,xcomp,0.0,γενόμενος,(),False,x̓xxx̀,False,False,False,False,,,,,,,,
+δὶς,δὶς,δὶς,δὶς,ὶς,δ,-20.0,ADV,d--------,,advmod,0.0,γενόμενος,(),False,xx̀x,False,False,False,False,,,,,,,,
+γενόμενος,γενόμενος,γενόμενος,γενόμενος,νος,γ,-20.0,VERB,v-sapmmn-,Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid,ROOT,0.0,γενόμενος,"(γεννᾶται, δύο)",False,xxxx́xxxx,False,False,False,False,Nom,Masc,Sing,Past,Part,Mid,,
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,γεννᾶται,(),False,",",False,True,False,False,,,,,,,,
+γεννᾶται,γεννᾶται,γεννᾶται,γεννᾶται,ται,γ,-20.0,VERB,V-,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass,conj,0.0,γενόμενος,"(γενόμενος, δύο)",False,xxxx͂xxx,False,False,False,False,,,Sing,Pres,Fin,Pass,Ind,3
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,CCONJ,c--------,,cc,0.0,γενόμενος,(),False,xx̀,False,False,False,False,,,,,,,,
+ὑπὸ,ὑπὸ,ὑπὸ,ὑπὸ,πὸ,υ,-20.0,ADP,r--------,,case,0.0,δύο,(),False,x̔xx̀,False,False,False,False,,,,,,,,
+τοῦ,τοῦ,τοῦ,τοῦ,οῦ,τ,-20.0,DET,p-s---mg-,Case=Gen|Gender=Masc|Number=Sing,det,0.0,δύο,(),False,xxx͂,False,False,False,False,Gen,Masc,Sing,,,,,
+δὶς,δὶς,δὶς,δὶς,ὶς,δ,-20.0,ADV,d--------,,advmod,0.0,δύο,(),False,xx̀x,False,False,False,False,,,,,,,,
+δύο,δύο,δύο,δύο,ύο,δ,-20.0,NUM,m--------,,conj,0.0,γενόμενος,"(γενόμενος, γεννᾶται)",False,xx́x,False,False,False,False,,,,,,,,
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,ROOT,0.0,.,(),False,.,False,True,False,False,,,,,,,,

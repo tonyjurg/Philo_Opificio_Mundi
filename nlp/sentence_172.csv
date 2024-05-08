@@ -1,0 +1,7 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Tense,VerbForm,Voice
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,c--------,,ROOT,0.0,καὶ,(),False,xxx̀,False,False,False,False,,,,,,
+τὸ,τὸ,τὸ,τὸ,τὸ,τ,-20.0,DET,l-s---nn-,Case=Nom|Gender=Neut|Number=Sing,det,0.0,γεννῶν,(),False,xx̀,False,False,False,False,Nom,Neut,Sing,,,
+γεννῶν,γεννῶν,γεννῶν,γεννῶν,ῶν,γ,-20.0,VERB,V-,Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act,ROOT,0.0,γεννῶν,(),False,xxxx͂x,False,False,False,False,Nom,Neut,Sing,Pres,Part,Act
+&,&,&,&,&,&,-20.0,CCONJ,Nb,,cc,0.0,γτ,(),False,&,False,True,False,False,,,,,,
+γτ,γτ,γτ,γτ,γτ,γ,-20.0,ADV,d--------,,advmod,0.0,γεννῶν,(),False,xx,True,False,False,False,,,,,,
+;,;,;,;,;,;,-20.0,SCONJ,c--------,,dep,0.0,γεννῶν,(),False,;,False,True,False,False,,,,,,

@@ -1,0 +1,9 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Degree
+ἡ,ἡ,ἡ,ἡ,ἡ,η,-20.0,DET,l-s---fn-,Case=Nom|Gender=Fem|Number=Sing,det,0.0,φυσικωτάτη,(),False,x̔,False,False,False,False,Nom,Fem,Sing,
+φυσικωτάτη,φυσικωτάτη,φυσικωτάτη,φυσικωτάτη,́τη,φ,-20.0,ADJ,a-s---fns,Case=Nom|Degree=Sup|Gender=Fem|Number=Sing,ROOT,0.0,φυσικωτάτη,"(πρόεσις,)",False,xxxx́xx,False,False,False,False,Nom,Fem,Sing,Sup
+σπέρματος,σπέρματος,σπέρμα,σπέρματος,τος,σ,-20.0,NOUN,n-s---ng-,Case=Gen|Gender=Neut|Number=Sing,nmod,0.0,φυσικωτάτη,(),False,xxx́xxxx,False,False,False,False,Gen,Neut,Sing,
+πρόεσις,πρόεσις,πρόεσις,πρόεσις,σις,π,-20.0,NOUN,n-s---fn-,Case=Nom|Gender=Fem|Number=Sing,conj,0.0,φυσικωτάτη,"(φυσικωτάτη,)",False,xxx́xxxx,False,False,False,False,Nom,Fem,Sing,
+διὰ,διὰ,διὰ,διὰ,ιὰ,δ,-20.0,ADP,r--------,,case,0.0,γεννητικῶν,(),False,xxx̀,False,False,False,False,,,,
+τῶν,τῶν,τῶν,τῶν,ῶν,τ,-20.0,DET,l-p---ng-,Case=Gen|Gender=Neut|Number=Plur,det,0.0,γεννητικῶν,(),False,xx͂x,False,False,False,False,Gen,Neut,Plur,
+γεννητικῶν,γεννητικῶν,γεννητικῶν,γεννητικῶν,ῶν,γ,-20.0,ADJ,a-p---ng-,Case=Gen|Gender=Neut|Number=Plur,nmod,0.0,φυσικωτάτη,(),False,xxxx͂x,False,False,False,False,Gen,Neut,Plur,
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,φυσικωτάτη,(),False,.,False,True,False,False,,,,

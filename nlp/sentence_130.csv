@@ -1,0 +1,13 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Degree,Mood,Person,Tense,VerbForm,Voice
+ταῖς,ταῖς,ταῖς,ταῖς,ῖς,τ,-20.0,DET,l-p---fd-,Case=Dat|Gender=Fem|Number=Plur,det,0.0,ἑαυτῶν,(),False,xxx͂x,False,False,False,False,Dat,Fem,Plur,,,,,,
+ἑαυτῶν,ἑαυτῶν,ἑαυτῶν,ἑαυτῶν,ῶν,ε,-20.0,PRON,Pk,Case=Gen|Gender=Masc|Number=Plur,nmod,0.0,εἰκόνας,(),False,x̔xxxx͂x,False,False,False,False,Gen,Masc,Plur,,,,,,
+τὰς,τὰς,τὰς,τὰς,ὰς,τ,-20.0,DET,l-p---fa-,Case=Acc|Gender=Fem|Number=Plur,det,0.0,εἰκόνας,(),False,xx̀x,False,False,False,False,Acc,Fem,Plur,,,,,,
+εἰκόνας,εἰκόνας,εἰκόνας,εἰκόνας,νας,ε,-20.0,NOUN,n-p---fa-,Case=Acc|Gender=Fem|Number=Plur,obj,0.0,παρέδοσαν,(),False,xx̓xx́xxx,False,False,False,False,Acc,Fem,Plur,,,,,,
+ἀναγκαιοτάτην,ἀναγκαιοτάτην,ἀναγκαιοτάτην,ἀναγκαιοτάτην,την,α,-20.0,ADJ,a-s---fas,Case=Acc|Degree=Sup|Gender=Fem|Number=Sing,amod,0.0,τέχνην,"(ὠφελιμωτάτην,)",False,x̓xxxx́xxx,False,False,False,False,Acc,Fem,Sing,Sup,,,,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,c--------,,cc,0.0,ἀναγκαιοτάτην,(),False,xxx̀,False,False,False,False,,,,,,,,,
+ὠφελιμωτάτην,ὠφελιμωτάτην,ὠφελιμωτάτην,ὠφελιμωτάτην,την,ω,-20.0,ADJ,a-s---fas,Case=Acc|Degree=Sup|Gender=Fem|Number=Sing,conj,0.0,ἀναγκαιοτάτην,"(ἀναγκαιοτάτην,)",False,x̓xxxx́xxx,False,False,False,False,Acc,Fem,Sing,Sup,,,,,
+τέχνην,τέχνην,τέχνη,τέχνην,νην,τ,-20.0,NOUN,n-s---fa-,Case=Acc|Gender=Fem|Number=Sing,obj,0.0,παρέδοσαν,(),False,xx́xxxx,False,False,False,False,Acc,Fem,Sing,,,,,,
+τῷ,τῷ,τῷ,τῷ,ῷ,τ,-20.0,DET,l-s---md-,Case=Dat|Gender=Masc|Number=Sing,det,0.0,βίῳ,(),False,xx͂ͅ,False,False,False,False,Dat,Masc,Sing,,,,,,
+βίῳ,βίῳ,βίῳ,βίῳ,́ῳ,β,-20.0,NOUN,n-s---md-,Case=Dat|Gender=Masc|Number=Sing,iobj,0.0,παρέδοσαν,(),False,xx́xͅ,False,False,False,False,Dat,Masc,Sing,,,,,,
+παρέδοσαν,παρέδοσαν,παρέδοσαν,παρέδοσαν,σαν,π,-20.0,VERB,v3paia---,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,ROOT,0.0,παρέδοσαν,(),False,xxxx́xxxx,False,False,False,False,,,Plur,,Ind,3,Past,Fin,Act
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,παρέδοσαν,(),False,.,False,True,False,False,,,,,,,,,

@@ -1,0 +1,10 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number
+ὅτι,ὅτι,ὅτι,ὅτι,́τι,ο,-20.0,ADV,d--------,,mark,0.0,καλόν,(),False,x̔́xx,False,False,False,False,,,
+ὑπερβαλλόντως,ὑπερβαλλόντως,ὑπερβαλλόντως,ὑπερβαλλόντως,τως,υ,-20.0,ADV,d--------,,advmod,0.0,καλόν,(),False,x̔xxxx́xxxx,False,False,False,False,,,
+καλόν,καλόν,καλός,καλόν,όν,κ,-20.0,ADJ,a-s---nn-,Case=Nom|Gender=Neut|Number=Sing,ROOT,0.0,καλόν,(),False,xxxx́x,False,False,False,False,Nom,Neut,Sing
+(,(,(,(,(,(,-20.0,PUNCT,u--------,,punct,0.0,γεν,(),False,(,False,True,False,False,,,
+γεν,γεν,γεν,γεν,γεν,γ,-20.0,X,p-s---fn-,,nsubj,0.0,καλόν,(),False,xxx,True,False,False,False,,,
+.,.,.,.,.,.,-20.0,PROPN,V-,,cop,0.0,καλόν,(),False,.,False,True,False,False,,,
+"1,4","1,4","1,4","1,4","1,4",1,-20.0,X,a--------,,advmod,0.0,καλόν,(),False,"d,d",False,False,False,False,,,
+),),),),),),-20.0,PUNCT,u--------,,case,0.0,"1,4",(),False,),False,True,False,False,,,
+·,·,·,·,·,·,-20.0,PUNCT,u--------,,punct,0.0,καλόν,(),False,·,False,True,False,False,,,

@@ -1,0 +1,13 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Mood,Number,Person,Tense,VerbForm,Voice,Case,Gender,Degree
+ἔστι,ἔστι,ἔστι,ἔστι,στι,ε,-20.0,AUX,v3spia---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,cop,0.0,λεχθῆναί,(),False,x̓́xxx,False,False,False,False,Ind,Sing,3,Pres,Fin,Act,,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,ADV,d--------,,advmod,0.0,ἔστι,(),False,xx̀,False,False,False,False,,,,,,,,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,ADV,d--------,,advmod,0.0,δύναμις,(),False,xxx̀,False,False,False,False,,,,,,,,,
+δύναμις,δύναμις,δύναμις,δύναμις,μις,δ,-20.0,NOUN,n-s---fn-,Case=Nom|Gender=Fem|Number=Sing,nsubj,0.0,λεχθῆναί,(),False,xx́xxxx,False,False,False,False,,Sing,,,,,Nom,Fem,
+ἄλλη,ἄλλη,ἄλλος,ἄλλη,λλη,α,-20.0,ADJ,a-s---fn-,Case=Nom|Gender=Fem|Number=Sing,nmod,0.0,δύναμις,(),False,x̓́xxx,False,False,False,False,,Sing,,,,,Nom,Fem,
+τετράδος,τετράδος,τετράς,τετράδος,δος,τ,-20.0,NOUN,n-s---fg-,Case=Gen|Gender=Fem|Number=Sing,nmod,0.0,δύναμις,(),False,xxxx́xxx,False,False,False,False,,Sing,,,,,Gen,Fem,
+λεχθῆναί,λεχθῆναί,λεχθῆναί,λεχθῆναί,αί,λ,-20.0,VERB,v--anp---,Tense=Past|VerbForm=Inf|Voice=Pass,ROOT,0.0,λεχθῆναί,"(νοηθῆναι,)",False,xxxx͂xxx́,False,False,False,False,,,,Past,Inf,Pass,,,
+τε,τε,τε,τε,τε,τ,-20.0,ADV,d--------,,advmod,0.0,λεχθῆναί,(),True,xx,True,False,False,False,,,,,,,,,
+καὶ,καὶ,καὶ,καὶ,αὶ,κ,-20.0,CCONJ,c--------,,cc,0.0,λεχθῆναί,(),False,xxx̀,False,False,False,False,,,,,,,,,
+νοηθῆναι,νοηθῆναι,νοηθῆναι,νοηθῆναι,ναι,ν,-20.0,VERB,v--anp---,Tense=Past|VerbForm=Inf|Voice=Pass,conj,0.0,λεχθῆναί,"(λεχθῆναί,)",False,xxxx͂xxx,False,False,False,False,,,,Past,Inf,Pass,,,
+θαυμασιωτάτη,θαυμασιωτάτη,θαυμασιωτάτη,θαυμασιωτάτη,́τη,θ,-20.0,ADJ,a-s---fns,Case=Nom|Degree=Sup|Gender=Fem|Number=Sing,xcomp,0.0,λεχθῆναί,(),False,xxxx́xx,False,False,False,False,,Sing,,,,,Nom,Fem,Sup
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,λεχθῆναί,(),False,.,False,True,False,False,,,,,,,,,

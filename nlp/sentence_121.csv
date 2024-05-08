@@ -1,0 +1,5 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Mood,Number,Person,Tense,VerbForm,Voice,Case,Gender
+ἔστι,ἔστι,ἔστι,ἔστι,στι,ε,-20.0,AUX,v3spia---,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,cop,0.0,ἥδε,(),False,x̓́xxx,False,False,False,False,Ind,Sing,3,Pres,Fin,Act,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,ADV,d--------,,advmod,0.0,ἥδε,(),False,xx̀,False,False,False,False,,,,,,,,
+ἥδε,ἥδε,ἥδε,ἥδε,́δε,η,-20.0,PRON,p-s---fn-,Case=Nom|Gender=Fem|Number=Sing,ROOT,0.0,ἥδε,(),False,x̔́xx,False,False,False,False,,Sing,,,,,Nom,Fem
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,ἥδε,(),False,.,False,True,False,False,,,,,,,,

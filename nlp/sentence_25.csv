@@ -1,0 +1,12 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Aspect,Mood,Number,Person,Tense,VerbForm,Voice,Case,Gender,Degree
+ἦν,ἦν,ἦς,ἦν,̓͂ν,η,-20.0,AUX,V-,Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,cop,0.0,ἄτακτος,(),False,x̓͂x,False,False,False,False,Imp,Ind,Sing,3,Past,Fin,Act,,,
+μὲν,μὲν,μὲν,μὲν,ὲν,μ,-20.0,ADV,Df,,discourse,0.0,ἄτακτος,(),False,xx̀x,False,False,False,False,,,,,,,,,,
+γὰρ,γὰρ,γὰρ,γὰρ,ὰρ,γ,-20.0,ADV,Df,,discourse,0.0,ἄτακτος,(),False,xx̀x,False,False,False,False,,,,,,,,,,
+ἐκ,ἐκ,ἐκ,ἐκ,ἐκ,ε,-20.0,ADP,R-,,case,0.0,αὑτῆς,(),False,x̓x,False,False,False,False,,,,,,,,,,
+αὑτῆς,αὑτῆς,αὑτῆς,αὑτῆς,ῆς,α,-20.0,ADJ,a-s---fg-,Case=Gen|Gender=Fem|Number=Sing,obl,0.0,ἄτακτος,(),False,xx̔xx͂x,False,False,False,False,,,Sing,,,,,Gen,Fem,
+ἄτακτος,ἄτακτος,ἄτακτος,ἄτακτος,τος,α,-20.0,ADJ,A-,"Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing",ROOT,0.0,ἄτακτος,"(ἄποιος, ἄψυχος)",False,x̓́xxxx,False,False,False,False,,,Sing,,,,,Nom,"Fem,Masc",Pos
+ἄποιος,ἄποιος,ἄποιος,ἄποιος,ιος,α,-20.0,ADJ,A-,"Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing",conj,0.0,ἄτακτος,"(ἄτακτος, ἄψυχος)",False,x̓́xxxx,False,False,False,False,,,Sing,,,,,Nom,"Fem,Masc",Pos
+ἄψυχος,ἄψυχος,ἄψυχος,ἄψυχος,χος,α,-20.0,ADJ,A-,"Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing",conj,0.0,ἄτακτος,"(ἄτακτος, ἄποιος)",False,x̓́xxxx,False,False,False,False,,,Sing,,,,,Nom,"Fem,Masc",Pos
+&,&,&,&,&,&,-20.0,CCONJ,C-,,cc,0.0,λτ,(),False,&,False,True,False,False,,,,,,,,,,
+λτ,λτ,λτ,λτ,λτ,λ,-20.0,ADV,d--------,,advmod,0.0,ἄψυχος,(),False,xx,True,False,False,False,,,,,,,,,,
+;,;,;,;,;,;,-20.0,SCONJ,G-,,cc,0.0,ἄψυχος,(),False,;,False,True,False,False,,,,,,,,,,

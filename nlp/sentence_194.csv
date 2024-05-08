@@ -1,0 +1,13 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Definite,PronType
+ἀναλογίας,ἀναλογίας,ἀναλογία,ἀναλογίας,́ας,α,-20.0,NOUN,Nb,Case=Gen|Gender=Fem|Number=Sing,ROOT,0.0,ἀναλογίας,(),False,x̓xxxx́xx,False,False,False,False,Gen,Fem,Sing,,
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,ὅταν,(),False,",",False,True,False,False,,,,,
+ὅταν,ὅταν,ὅταν,ὅταν,ταν,ο,-20.0,SCONJ,Dq,,case,0.0,μορίῳ,(),False,x̔́xxx,False,False,False,False,,,,,
+ὁ,ὁ,ὁ,ὁ,ὁ,ο,-20.0,DET,l-s---mn-,Case=Nom|Gender=Masc|Number=Sing,det,0.0,μέσος,(),False,x̔,False,False,False,False,Nom,Masc,Sing,,
+μέσος,μέσος,μέσος,μέσος,σος,μ,-20.0,ADJ,a-s---mn-,Case=Nom|Gender=Masc|Number=Sing,nsubj,0.0,μορίῳ,(),False,xx́xxx,False,False,False,False,Nom,Masc,Sing,,
+τῶν,τῶν,τῶν,τῶν,ῶν,τ,-20.0,DET,l-p---ng-,Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem,det,0.0,ἄκρων,(),False,xx͂x,False,False,False,False,Gen,Neut,Plur,Def,Dem
+ἄκρων,ἄκρων,ἄκρον,ἄκρων,ρων,α,-20.0,NOUN,n-p---ng-,Case=Gen|Gender=Neut|Number=Plur,nmod,0.0,μέσος,(),False,x̓́xxxx,False,False,False,False,Gen,Neut,Plur,,
+ἴσῳ,ἴσῳ,ἴσῳ,ἴσῳ,σῳ,ι,-20.0,ADJ,a-s---nd-,Case=Dat|Gender=Neut|Number=Sing,amod,0.0,μορίῳ,(),False,x̓́xxͅ,False,False,False,False,Dat,Neut,Sing,,
+μορίῳ,μορίῳ,μορίῳ,μορίῳ,́ῳ,μ,-20.0,NOUN,n-s---nd-,Case=Dat|Gender=Neut|Number=Sing,ROOT,0.0,μορίῳ,(),False,xxxx́xͅ,False,False,False,False,Dat,Neut,Sing,,
+&,&,&,&,&,&,-20.0,ADP,C-,,cc,0.0,λτ,(),False,&,False,True,False,False,,,,,
+λτ,λτ,λτ,λτ,λτ,λ,-20.0,ADV,d--------,,amod,0.0,μορίῳ,(),False,xx,True,False,False,False,,,,,
+;,;,;,;,;,;,-20.0,ADV,Df,,dep,0.0,μορίῳ,(),False,;,False,True,False,False,,,,,

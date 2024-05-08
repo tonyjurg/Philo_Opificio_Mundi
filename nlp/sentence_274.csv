@@ -1,0 +1,17 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Tense,VerbForm,Voice,Aspect,Mood,Person
+θέμενος,θέμενος,θέμενος,θέμενος,νος,θ,-20.0,VERB,v-sapmmn-,Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid,advcl,0.0,ἐσκόπει,(),False,xx́xxxx,False,False,False,False,Nom,Masc,Sing,Past,Part,Mid,,,
+δὲ,δὲ,δὲ,δὲ,δὲ,δ,-20.0,ADV,d--------,,advmod,0.0,ἐσκόπει,(),False,xx̀,False,False,False,False,,,,,,,,,
+τούτους,τούτους,τούτους,τούτους,ους,τ,-20.0,ADJ,a-p---ma-,Case=Acc|Gender=Masc|Number=Plur,nmod,0.0,ὅρους,(),False,xxx́xxxx,False,False,False,False,Acc,Masc,Plur,,,,,,
+τοὺς,τοὺς,τοὺς,τοὺς,ὺς,τ,-20.0,DET,l-p---ma-,Case=Acc|Gender=Masc|Number=Plur,det,0.0,ὅρους,(),False,xxx̀x,False,False,False,False,Acc,Masc,Plur,,,,,,
+ὅρους,ὅρους,ὅρος,ὅρους,ους,ο,-20.0,NOUN,n-p---ma-,Case=Acc|Gender=Masc|Number=Plur,obj,0.0,θέμενος,(),False,x̔́xxxx,False,False,False,False,Acc,Masc,Plur,,,,,,
+ἐν,ἐν,ἐν,ἐν,ἐν,ε,-20.0,ADP,r--------,,case,0.0,ψυχῇ,(),False,x̓x,False,False,False,False,,,,,,,,,
+ψυχῇ,ψυχῇ,ψυχῇ,ψυχῇ,ῇ,ψ,-20.0,NOUN,n-s---fd-,Case=Dat|Gender=Fem|Number=Sing,obl,0.0,ἐσκόπει,(),False,xxxx͂ͅ,False,False,False,False,Dat,Fem,Sing,,,,,,
+καθάπερ,καθάπερ,καθά,καθάπερ,περ,κ,-20.0,SCONJ,c--------,,mark,0.0,δικαστὴς,(),False,xxxx́xxx,False,False,False,False,,,,,,,,,
+δικαστὴς,δικαστὴς,δικαστὴς,δικαστὴς,ὴς,δ,-20.0,NOUN,n-s---mn-,Case=Nom|Gender=Masc|Number=Sing,nsubj,0.0,ἐσκόπει,(),False,xxxx̀x,False,False,False,False,Nom,Masc,Sing,,,,,,
+ἐσκόπει,ἐσκόπει,ἐσκόπει,ἐσκόπει,πει,ε,-20.0,VERB,v3siia---,Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act,advcl,0.0,ἕξει,(),False,x̓xxx́xxx,False,False,False,False,,,Sing,Past,Fin,Act,Imp,Ind,3
+",",",",",",",",",",",",-20.0,PUNCT,u--------,,punct,0.0,ἐσκόπει,(),False,",",False,True,False,False,,,,,,,,,
+πρὸς,πρὸς,πρὸς,πρὸς,ὸς,π,-20.0,ADP,r--------,,case,0.0,πότερον,(),False,xxx̀x,False,False,False,False,,,,,,,,,
+πότερον,πότερον,πότερος,πότερον,ρον,π,-20.0,ADJ,a-s---na-,Case=Acc|Gender=Neut|Number=Sing,obl,0.0,ἕξει,(),False,xx́xxxx,False,False,False,False,Acc,Neut,Sing,,,,,,
+ἐπικλινῶς,ἐπικλινῶς,ἐπικλινῶς,ἐπικλινῶς,ῶς,ε,-20.0,ADV,d--------,,advmod,0.0,ἕξει,(),False,x̓xxxx͂x,False,False,False,False,,,,,,,,,
+ἕξει,ἕξει,ἕχω,ἕξει,ξει,ε,-20.0,VERB,v3sfia---,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act,ROOT,0.0,ἕξει,(),False,x̔́xxx,False,False,False,False,,,Sing,Fut,Fin,Act,,Ind,3
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,ἕξει,(),False,.,False,True,False,False,,,,,,,,,

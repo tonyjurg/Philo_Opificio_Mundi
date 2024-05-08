@@ -1,0 +1,5 @@
+orth,text,lemma,norm,suffix,prefix,prob,pos,tag,morph,dep,sentiment,head,conjuncts,is_stop,shape,is_alpha,is_punct,like_num,is_space,Case,Gender,Number,Mood,Person,Tense,VerbForm,Voice
+ὑπόσχεσιν,ὑπόσχεσιν,ὑπόσχες,ὑπόσχεσιν,σιν,υ,-20.0,NOUN,n-p---fd-,Case=Acc|Gender=Fem|Number=Sing,obj,0.0,ἀποδείξει,(),False,x̔xx́xxxx,False,False,False,False,Acc,Fem,Sing,,,,,
+ἀποδείξει,ἀποδείξει,ἀποδείσσω,ἀποδείξει,ξει,α,-20.0,VERB,v3sfia---,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act,ccomp,0.0,βεβαιωτέον,(),False,x̓xxxx́xxx,False,False,False,False,,,Sing,Ind,3,Fut,Fin,Act
+βεβαιωτέον,βεβαιωτέον,βεβαιωτέιος,βεβαιωτέον,́ον,β,-20.0,ADJ,a-s---nn-,Case=Nom|Gender=Neut|Number=Sing,ROOT,0.0,βεβαιωτέον,(),False,xxxx́xx,False,False,False,False,Nom,Neut,Sing,,,,,
+.,.,.,.,.,.,-20.0,PUNCT,u--------,,punct,0.0,βεβαιωτέον,(),False,.,False,True,False,False,,,,,,,,
